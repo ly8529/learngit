@@ -2,4 +2,4 @@ different
 git is a version control system
 git is a free softwares distrubute GPL
 git has a mutable index called stage
-love love love
+creating a new branch is quick & simple
