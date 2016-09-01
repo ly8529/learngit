@@ -3,3 +3,4 @@ git is a version control system
 git is a free softwares distrubute GPL
 git has a mutable index called stage
 add merge
+git is a free software
